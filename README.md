@@ -1,5 +1,13 @@
 # Skill-Harvest-Sales-Report   
 
+# Table of Content
+
+- Executive Summary
+- Data Source
+- Tools Used
+- Sales Metrics Overview
+- Recommendations
+
 # Executive Summary
 ---
 
