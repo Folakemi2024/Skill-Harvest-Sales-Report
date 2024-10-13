@@ -5,6 +5,7 @@
 - Executive Summary
 - Data Source
 - Tools Used
+- Data Analysis
 - Sales Metrics Overview
 - Recommendations
 
@@ -22,6 +23,26 @@ This data was gathered by Skill Harvest's sales department over a two-year perio
 ---
 
 Microsoft Excel is used for the data cleaning, analysis and visualization [ Download Here] ( https://www.microsoft.com)
+
+# Data Analysis
+- Data Cleaning and Analysis
+- Reporting with Pivot
+- 
+  i. Click on any place on the table
+  
+  ii. Click Insert
+  
+  iii. Click Pivot Table
+  
+  iv. Click Table/Range
+  
+   v. To create another Pivot table from the existing one
+  
+  vi. Click Control A to higlight
+  
+  vii. Control C to Copy
+  
+  viii. Control V to Paste in a new space
 
 # Sales Metrics Overview
 ---
