@@ -7,6 +7,7 @@
 - Tools Used
 - Data Analysis
 - Sales Metrics Overview
+- Results
 - Recommendations
 
 # Executive Summary
@@ -112,6 +113,12 @@ This displays the units sold by each line of business and identifies which line 
 - ---
 
 <img width="371" alt="Revenue by Average units sold" src="https://github.com/user-attachments/assets/a1a03f7d-3481-45ab-8281-e2dd8d01972e">
+
+- # Results
+- ---
+The analysis reveals that Skill Harvest operates in 23 states, with five key states—Ekiti, Abia, Bayelsa, Akwa Ibom, and Kogi—contributing significantly to revenue in both 2014 and 2015. The business spans six regions: North East, South West, South South, South East, North West, and North Central, each varying in its impact on the business. Across these states, multiple stores are in operation, with the top 10 revenue-generating stores being Ankpa, Ajaokuta, Araochukwu, Ekiti South West, Nembe, Ekiti East, Ado-Odo/Ota, Dukku, Bauchi, and Askira/Uba.
+
+Skill Harvest operates in four main business lines: Service Plan, Parts, Copier Sale, and Printer Sale, distributed across various states, regions, and stores. The Parts line of business contributes the most to revenue, followed closely by Service Plan. Unit sales vary across stores, with Akinyele showing the highest number of units sold, significantly driving revenue. In contrast, stores like Chibok and Isiala Ngwa South have minimal impact on revenue, while Boki and Kwali contribute little to no revenue.
 
 # Recommenadtions
 - ---
